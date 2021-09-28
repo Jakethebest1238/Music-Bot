@@ -1,0 +1,14 @@
+{
+    "website" : {
+      "support": "https://dsc.gg/jakesnation",
+      "domain": "https://Jakes-Music-Bot.jakethebest1238.repl.co"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "https://Jakes-Music-Bot.jakethebest1238.repl.co/callback",
+        "clientID": "888442111987425340",
+        "secret": "56s9AZ_PpFBvCHoaOFp-XPDmL5xGQf2b"
+    }
+  }
