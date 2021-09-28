@@ -28,7 +28,7 @@
 
     - `dpkg-reconfigure locales` --> To change the server language to XXXX (on debian)
 
-- `npm install` to Install the depedences
+- `npm install and/or npm i discord.js` to Install the depedences
 
 - `node .` to start the Bot
 
